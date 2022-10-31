@@ -1,2 +1,2 @@
 # Mycodo-hyrdoponic-build
-Easy example hardware Mycodo build for hydroponics.
+Easy as I can think example hardware build for a Mycodo hydroponics application.
