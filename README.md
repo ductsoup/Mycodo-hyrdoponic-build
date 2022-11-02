@@ -2,12 +2,14 @@
 A straightforward example of a hardware build to run Mycodo for hydroponics.
 
 ## Overview
-A few years ago we moved and I finally had the space to start messing around with indoor hydroponics so we could grow fresh food in winter. At first I used the Kratky method because it was cheap, easy and simple. It worked very well but had it's limitations. As things grew they required more and more tending, sometimes I didn't have the time necessary to take care of them properly. This season it seemed time to move on to something more advanced that could support fruiting crops such as tomatoes.
+A few years ago we moved and I finally had the space to start messing around with indoor hydroponics so we could grow fresh food in winter. At first I used the Kratky method because it was cheap, easy and simple. It worked very well but had it's limitations. As things grew they required more and more tending, sometimes I didn't have the time necessary to take care of them properly. This season I wanted to move on to a more advanced setup that could support fruiting crops such as tomatoes.
 
+Part of my day job is designing and building industrial control and building automation systems. Mechanical timers and checking water quality with handheld devices absolutely works but seemed a little low-tech. What I wanted was something easy to assemble with common tools that I could monitor remotely. 
 
+Raspberry Pi with all it's available HATs and such was the obvious place to start. To that I added Atlas water quality devices and a very capable relay board I found online. 
 
-### Hardware
-- Raspberry Pi 3B or 4B
+## Hardware
+- Raspberry Pi 3B or 4B (or equivalent)
   - [SanDisk 128GB Ultra microSDXC UHS-I Memory Card (or equivalent)](https://smile.amazon.com/gp/product/B08GYKNCCP/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
   - [2.5mm Nylon Standoffs (as needed)](https://smile.amazon.com/Generic-Spacer-Assorted-Raspberry-Pi-Standoff/dp/B014J1ZLD6/ref=sr_1_5?crid=3M7GM3E3F7HYO&keywords=2.5+mm+nylon+standoff&qid=1667400137&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=2.5+mm+nylon+standoff%2Caps%2C80&sr=8-5)
   - [GeeekPi 2x20 40 Pin Stacking Female Header Kit (as needed)](https://smile.amazon.com/dp/B08GC18NMK?psc=1&ref=ppx_yo2ov_dt_b_product_details)
