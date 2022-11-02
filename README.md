@@ -11,5 +11,5 @@ A straightforward example of a hardware build to run Mycodo for a hydroponics ap
 ### Hardware
 - Raspberry Pi 3 or 4
 - Atlas Tentacle T3
-- [Sequent 8-Channel Relay] (https://smile.amazon.com/dp/B07KRKS67G?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [Sequent 8-Channel Relay](https://smile.amazon.com/dp/B07KRKS67G?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   120VAC 
