@@ -20,6 +20,7 @@ A straightforward example of a hardware build to run Mycodo for a hydroponics ap
 - [Sequent Stackable 8-Channel Relay](https://smile.amazon.com/dp/B07KRKS67G?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   - 120VAC/4A or 24VDC/4A 
   - [Cable Matters 2-Pack 16 AWG Heavy Duty Power Extension Cord 3 ft (modified)](https://smile.amazon.com/gp/product/B0153T1KNS/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1)
+    - Wire Stripper/Cutter
   - [Wago 5-Wire Connector](https://www.adafruit.com/product/874)
 
 ## Gallery
