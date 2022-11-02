@@ -7,6 +7,8 @@ A straightforward example of a hardware build to run Mycodo for a hydroponics ap
 ### Hardware
 - Raspberry Pi 3B or 4B
   - [SanDisk 128GB Ultra microSDXC UHS-I Memory Card (or equivalent)](https://smile.amazon.com/gp/product/B08GYKNCCP/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+  - 2.5mm Nylon Standoffs (as needed)
+  - [GeeekPi 2x20 40 Pin Stacking Female Header Kit (as needed)](https://smile.amazon.com/dp/B08GC18NMK?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - [Atlas/Whitebox Tentacle T3](https://atlas-scientific.com/electrical-isolation/whitebox-t3/)
   - [Atlas EZO™ pH Circuit and probe](https://atlas-scientific.com/embedded-solutions/ezo-ph-circuit)
   - [Atlas EZO™ Conductivity Circuit and probe](https://atlas-scientific.com/embedded-solutions/ezo-conductivity-circuit)
@@ -16,7 +18,6 @@ A straightforward example of a hardware build to run Mycodo for a hydroponics ap
 - [Sequent Stackable 8-Channel Relay](https://smile.amazon.com/dp/B07KRKS67G?psc=1&ref=ppx_yo2ov_dt_b_product_details)
   - 120VAC/4A or 24VDC/4A 
 - Miscellaneous
-  - 2.5mm Nylon Standoffs
   - [Wago 5-Wire Connector](https://www.adafruit.com/product/874)
   - [Wago 3-Wire Connector](https://www.adafruit.com/product/866)
 
