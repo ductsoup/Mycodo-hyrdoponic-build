@@ -6,7 +6,7 @@ A few years ago we moved and I finally had the space to start messing around wit
 
 Part of my day job is designing and building industrial control and building automation systems. Mechanical timers and checking water quality with handheld devices absolutely works but seemed a little low-tech. What I wanted was something easy to assemble with common tools that I could monitor remotely. 
 
-Raspberry Pi was the obvious place to start. To that I added some Atlas devices for water quality, some environmental monitoring and a very capable relay HAT for running lights, pumps, etc.
+Raspberry Pi was the obvious place to start. To that I added some Atlas devices for water quality, some environmental monitoring and a very capable relay HAT for running lights, pumps, etc. Everything I use here is readily available online, takes only a few hours to put together and easy to expand in the future.
 
 ## Hardware
 - Raspberry Pi 3B or 4B (or equivalent)
