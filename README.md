@@ -2,7 +2,9 @@
 A straightforward example of a hardware build to run Mycodo for hydroponics.
 
 ## Overview
-A few years ago we moved and I finally had the space to start messing around with indoor hydroponics so we could have fresh food in winter. At first I used the Kratky method because it was cheap, eash and simple. It worked well but had it's limitations. As things grew they needed more and more tending, sometimes I didn't have the time necessary to take care of them properly. 
+A few years ago we moved and I finally had the space to start messing around with indoor hydroponics so we could grow fresh food in winter. At first I used the Kratky method because it was cheap, easy and simple. It worked very well but had it's limitations. As things grew they required more and more tending, sometimes I didn't have the time necessary to take care of them properly. This season it seemed time to move on to something more advanced that could support fruiting crops such as tomatoes.
+
+
 
 ### Hardware
 - Raspberry Pi 3B or 4B
