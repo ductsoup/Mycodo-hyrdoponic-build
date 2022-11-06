@@ -65,6 +65,7 @@ sudo apt install -y build-essential python3-pip python3-dev python3-smbus i2c-to
 sudo raspi-config nonint do_i2c 0
 sudo reboot
 sudo i2cdetect -y 1
+
      0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
 00:                         -- -- -- -- -- -- -- -- 
 10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
@@ -96,6 +97,7 @@ chmod +x script_on_off.sh
 From there you can create a Shell On/Off Output in Mycodo like `/home/pi/script_on_off.sh 1 on`.
 
 ### Install Atlas Utilities
+Mycodo supports calibration for Atlas sensors. In some cases you'll want to use the Atlas utilities instead.
 ```
 git clone https://github.com/AtlasScientific/Raspberry-Pi-sample-code.git
 python3 Raspberry-Pi-sample-code/i2c.py
