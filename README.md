@@ -2,7 +2,7 @@
 A straightforward example of a hardware build to run Mycodo for hydroponics.
 
 ## Overview
-A few years ago we moved and I finally had the space to start messing around with indoor hydroponics to grow fresh food in winter. At first I used the Kratky method because it was cheap, easy and simple. It worked very well but had it's limitations. As things grew they required more and more tending, sometimes I didn't have the time necessary to take care of them properly. This season I wanted to move on to a more advanced setup that could support fruiting crops such as tomatoes.
+A few years ago we moved and I finally had the space to start messing around with indoor hydroponics to grow fresh food in winter. At first I used the Kratky method because it was cheap, easy and simple. It worked very well but had it's limitations. As things grew they required more and more tending, sometimes I didn't have the time necessary to take care of them properly. This season I wanted to move on to a more advanced ebb and flow setup that could support fruiting crops such as tomatoes.
 
 Part of my day job is designing and building industrial control and building automation systems. Mechanical timers and checking water quality with handheld devices absolutely works but seemed a little low-tech. What I wanted was something easy to assemble with common tools that I could monitor remotely. This is what I wanted to measure and control:
 
@@ -20,7 +20,7 @@ Part of my day job is designing and building industrial control and building aut
   - Pump 2 - Recirculation (120VAC)
   - Grow Light 1 (120VAC)
   - Grow Light 2 (120VAC)
-  - Spare 120VAC or 24VDC
+  - Spare 120VAC or 24VDC relays
 
 ## Hardware
 All sensors are I2C bus.
@@ -111,7 +111,9 @@ If you are using a Pi4 you may have problems using the Atlas utilities. A workar
 | ![3](image/IMG_5816.jpg) | ![8](image/IMG_5818.jpg) |
 | ![3](image/IMG_5887.jpg) | ![8](image/IMG_5889.jpg) |
 
-## Extras
-Just for fun I've included a rough sketch of the frame I'm using for this system. When it came time to build that part I considered using t-slotted aluminum frames rather than a standard wire shelf from Uline. Comparing the prices for both, it was a wash so I oped for the more flexible t-slotted design. I've used extruded aluminum many times before from various vendors. Experience is Automation Direct is cheaper and faster than others.
+## Conclusion
+Unless you're doing aquaponics the DO sensor probably isn't much use. The Pi3 works fine but it's slow. A Pi4 works much better with the caveat you need to figure a way to manage the heat it generates. 
+
+Just for fun I've also included a rough sketch of the frame I'm using for this system. When it came time to build that part I considered using t-slotted aluminum frames rather than a standard wire shelf from Uline. Comparing the prices for both, it was a wash so I oped for the more flexible t-slotted design. I've used extruded aluminum many times before from various vendors. Experience is Automation Direct is cheaper and faster than others.
 
 - [Automation Direct T-Slotted Rails and Components](https://www.automationdirect.com/adc/overview/catalog/structural_frames_-z-_rails)
