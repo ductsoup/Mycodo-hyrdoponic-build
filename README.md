@@ -45,7 +45,8 @@ All sensors are I2C bus.
 ![9](schematic/pi-hydro2_bb.jpg)
 
 ## Construction
-| | For the 120VAC and 24DC |
+| ![7](image/IMG_5568.jpg) | For the 120VAC and 24DC |
+| --- | --- |
 
 ## Enclosure
 
