@@ -71,7 +71,7 @@ sudo make install
 cd ~
 
 nano -K script_on_off.sh
-8relind 0 write $1 $2
+*8relind 0 write $1 $2*
 chmod +x script_on_off.sh
 ```
 
