@@ -112,6 +112,6 @@ If you are using a Pi4 you may have problems using the Atlas utilities. A workar
 | ![3](image/IMG_5887.jpg) | ![8](image/IMG_5889.jpg) |
 
 ## Extras
-Just for fun I've included a rough sketch of the frame I'm using for this system. When it came time to build that part I considered using t-slotted aluminum frames rather than a standard wire shelf from Uline. Comparing the prices for both, it was a wash so I oped for the more flexible t-slotted design.
+Just for fun I've included a rough sketch of the frame I'm using for this system. When it came time to build that part I considered using t-slotted aluminum frames rather than a standard wire shelf from Uline. Comparing the prices for both, it was a wash so I oped for the more flexible t-slotted design. I've used extruded aluminum many times before from various vendors. Experience is Automation Direct is cheaper and faster than others.
 
-[Automation Direct T-Slotted Rails and Components](https://www.automationdirect.com/adc/overview/catalog/structural_frames_-z-_rails)
+- [Automation Direct T-Slotted Rails and Components](https://www.automationdirect.com/adc/overview/catalog/structural_frames_-z-_rails)
