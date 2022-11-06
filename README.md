@@ -90,8 +90,7 @@ sudo make install
 8relind 0 test
 cd ~
 
-nano -K script_on_off.sh
-  8relind 0 write $1 $2
+echo 8relind 0 write $1 $2 >script_on_off.sh
 chmod +x script_on_off.sh
 ```
 From there you can create a Shell On/Off Output in Mycodo like `/home/pi/script_on_off.sh 1 on`.
