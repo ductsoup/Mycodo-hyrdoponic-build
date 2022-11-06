@@ -58,6 +58,22 @@ Originally I'd written my own software in Python. Then I came across [Mycodo](ht
 
 Support for the Atlas and SCD41 sensors is native in Mycodo. Support for the Sequent relay board is not but fortunately there's a provision. To connect the relay board to Mycodo you'll need to install the drivers and add a shell script.
 
+### Install I2C
+```
+sudo raspi-config nonint do_i2c 0
+sudo reboot
+sudo i2cdetect -y 1
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:                         -- -- -- -- -- -- -- -- 
+10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+20: -- -- -- -- -- -- -- 27 -- -- -- -- -- -- -- -- 
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+40: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
+60: -- -- 62 63 64 -- 66 -- -- -- -- -- -- -- -- -- 
+70: -- -- -- -- -- -- -- --  
+```
+
 ### Relay
 ```
 sudo apt install git -y
