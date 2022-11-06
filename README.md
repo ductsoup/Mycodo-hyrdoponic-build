@@ -36,7 +36,7 @@ Part of my day job is designing and building industrial control and building aut
     - Wire Stripper/Cutter
   - [Wago 5-Wire Connectors](https://www.adafruit.com/product/874)
 
-![9](schematic/pi-hydro2_bb.pdf)
+![9](schematic/pi-hydro2_bb.jpg)
 
 ## Gallery
 | ![1](image/IMG_5570.jpg) |  ![2](image/IMG_5677.jpg) |
