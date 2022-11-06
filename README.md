@@ -54,12 +54,14 @@ All sensors are I2C bus.
 | -- | :------ |
 
 ## Software
+Originally I'd written my own software in Python. Then I came across [Mycodo](https://github.com/kizniche/Mycodo) which had a much nicer and more capable interface.
+
 
 ## Gallery
 | ![1](image/IMG_5570.jpg) |  ![2](image/IMG_5677.jpg) |
 | --- | --- |
 | ![5](image/IMG_5571.jpg) | ![6](image/IMG_5567.jpg) |
 | ![3](image/IMG_5566.jpg) | ![4](image/IMG_5568.jpg) |
-| ![7](image/IMG_5568.jpg) | ![8](image/IMG_5571.jpg) |
+|  | ![8](image/IMG_5571.jpg) |
 
 
