@@ -97,7 +97,7 @@ chmod +x script_on_off.sh
 From there you can create a Shell On/Off Output in Mycodo like `/home/pi/script_on_off.sh 1 on`.
 
 ### Install Atlas Utilities
-Mycodo supports calibration for Atlas sensors. In some cases you'll want to use the Atlas utilities instead.
+Mycodo supports calibration for Atlas sensors. In some cases you'll want to use the Atlas utilities instead (for example, if you're using a K0.1 EC probe).
 ```
 git clone https://github.com/AtlasScientific/Raspberry-Pi-sample-code.git
 python3 Raspberry-Pi-sample-code/i2c.py
