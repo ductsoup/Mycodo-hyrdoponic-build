@@ -54,7 +54,9 @@ All sensors are I2C bus.
 | -- | :------ |
 
 ## Software
-Originally I'd written my own software in Python. Then I came across [Mycodo](https://github.com/kizniche/Mycodo) which had a much nicer and more capable interface.
+Originally I'd written my own software in Python. Then I came across [Mycodo](https://github.com/kizniche/Mycodo) which has a much nicer and more capable interface so I decided to use that instead.
+
+Support for the Atlas and SCD41 sensors is native in Mycodo. Support for the Sequent relay board is not but fortunately there's a provision. To connect the relay board to Mycodo you'll need to add a shell script.
 
 
 ## Gallery
