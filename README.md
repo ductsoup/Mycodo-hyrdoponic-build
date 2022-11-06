@@ -56,8 +56,24 @@ All sensors are I2C bus.
 ## Software
 Originally I'd written my own software in Python. Then I came across [Mycodo](https://github.com/kizniche/Mycodo) which has a much nicer and more capable interface so I decided to use that instead.
 
-Support for the Atlas and SCD41 sensors is native in Mycodo. Support for the Sequent relay board is not but fortunately there's a provision. To connect the relay board to Mycodo you'll need to add a shell script.
+Support for the Atlas and SCD41 sensors is native in Mycodo. Support for the Sequent relay board is not but fortunately there's a provision. To connect the relay board to Mycodo you'll need to install the drivers and add a shell script.
 
+```
+sudo apt install git -y
+# https://github.com/SequentMicrosystems/8relind-rpi/tree/main/python 
+git clone https://github.com/SequentMicrosystems/8relind-rpi.git
+cd 8relind-rpi/python/8relind/
+sudo python3 setup.py install
+cd ~/8relind-rpi/
+sudo make install
+8relind -h
+8relind 0 test
+cd ~
+
+nano -K script_on_off.sh
+8relind 0 write $1 $2
+chmod +x script_on_off.sh
+```
 
 ## Gallery
 | ![1](image/IMG_5570.jpg) |  ![2](image/IMG_5677.jpg) |
