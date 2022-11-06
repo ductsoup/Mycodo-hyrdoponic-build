@@ -14,7 +14,7 @@ Part of my day job is designing and building industrial control and building aut
 - Air Quality
   - Temperature
   - Humidity
-  -CO2
+  - CO2
 - Control
   - Pump 1 - Ebb and Flow (120VAC)
   - Pump 2 - Recirculation (120VAC)
