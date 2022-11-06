@@ -108,5 +108,7 @@ If you are using a Pi4 you may have problems using the Atlas utilities. A workar
 | --- | --- |
 | ![5](image/IMG_5571.jpg) | ![6](image/IMG_5567.jpg) |
 | ![3](image/IMG_5566.jpg) | ![8](image/IMG_5571.jpg) |
+| ![3](image/IMG_5816.jpg) | ![8](image/IMG_5818.jpg) |
+| ![3](image/IMG_5887.jpg) | ![8](image/IMG_5889.jpg) |
 
 
