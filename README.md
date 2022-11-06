@@ -102,6 +102,7 @@ Mycodo supports calibration for Atlas sensors. In some cases you'll want to use 
 git clone https://github.com/AtlasScientific/Raspberry-Pi-sample-code.git
 python3 Raspberry-Pi-sample-code/i2c.py
 ```
+If you are using a Pi4 you may have problems using the Atlas utilities. A workaround for Pi 4 is [here](https://github.com/AtlasScientific/Raspberry-Pi-sample-code/issues/9).
 
 ## Gallery
 | ![1](image/IMG_5570.jpg) |  ![2](image/IMG_5677.jpg) |
