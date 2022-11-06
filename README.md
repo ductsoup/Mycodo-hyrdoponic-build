@@ -112,7 +112,7 @@ If you are using a Pi4 you may have problems using the Atlas utilities. A workar
 | ![3](image/IMG_5887.jpg) | ![8](image/IMG_5889.jpg) |
 
 ## Conclusion
-Unless you're doing aquaponics the DO sensor probably isn't much use. The Pi3 works fine but it's slow. A Pi4 works much better with the caveat you need to figure a way to manage the heat it generates. 
+The Pi3 works fine but it's slow. A Pi4 works much better with the caveat you need to figure a way to manage the heat it generates. Unless you're doing aquaponics the DO sensor probably isn't much use and can be elimined. The air temperature, humidity and CO2 sensor is very handy.
 
 Just for fun I've also included a rough sketch of the frame I'm using for this system. When it came time to build that part I considered using t-slotted aluminum frames rather than a standard wire shelf from Uline. Comparing the prices for both, it was a wash so I oped for the more flexible t-slotted design. I've used extruded aluminum many times before from various vendors. Experience is Automation Direct is cheaper and faster than others.
 
