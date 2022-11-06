@@ -45,8 +45,8 @@ All sensors are I2C bus.
 ![9](schematic/pi-hydro2_bb.jpg)
 
 ## Construction
-| ![7](image/IMG_5568.jpg) | :For the 120VAC and 24DC use 3' extension cords with either the plug or socket removed and use Wago connectors. |
-| -- | ------ |
+| ![7](image/IMG_5568.jpg) | For the 120VAC and 24DC use 3' (or whatever length you find convenient) extension cords with either the plug or socket removed at one end. Join using Wago connectors. |
+| -- | :------ |
 
 ## Enclosure
 
