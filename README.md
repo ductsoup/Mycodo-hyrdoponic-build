@@ -46,7 +46,7 @@ All sensors are I2C bus.
 
 ## Construction
 | ![7](image/IMG_5568.jpg) | For the 120VAC and 24DC |
-| --- | --- |
+| -- | ------ |
 
 ## Enclosure
 
