@@ -15,6 +15,7 @@ Part of my day job is designing and building industrial control and building aut
   - Temperature
   - Humidity
   - CO2
+  - Vapor Pressure Deficit (calculated)
 - Control
   - Pump 1 - Ebb and Flow (120VAC)
   - Pump 2 - Recirculation (120VAC)
