@@ -4,11 +4,18 @@ A straightforward example of a hardware build to run Mycodo for hydroponics.
 ## Overview
 A few years ago we moved and I finally had the space to start messing around with indoor hydroponics to grow fresh food in winter. At first I used the Kratky method because it was cheap, easy and simple. It worked very well but had it's limitations. As things grew they required more and more tending, sometimes I didn't have the time necessary to take care of them properly. This season I wanted to move on to a more advanced setup that could support fruiting crops such as tomatoes.
 
-Part of my day job is designing and building industrial control and building automation systems. Mechanical timers and checking water quality with handheld devices absolutely works but seemed a little low-tech. What I wanted was something easy to assemble with common tools that I could monitor remotely. 
+Part of my day job is designing and building industrial control and building automation systems. Mechanical timers and checking water quality with handheld devices absolutely works but seemed a little low-tech. What I wanted was something easy to assemble with common tools that I could monitor remotely. This is what I came up with.
 
-Raspberry Pi was the obvious place to start. To that I added some Atlas devices for water quality, some environmental monitoring and a stackable relay HAT for running lights, pumps, etc. either 120VAC or 24VDC. Everything I use here is readily available online, takes only a few hours to put together and easy to expand in the future.
-
-
+- Water Quality
+  - Temperature
+  - pH
+  - EC (electrical conductivity)
+- Air Quality
+  - Temperature
+  - Humidity
+  -CO2
+- Control
+  - 120VAC or 24VDC relays
 
 ## Hardware
 - Raspberry Pi 3 or 4 (or equivalent)
