@@ -16,11 +16,11 @@ Part of my day job is designing and building industrial control and building aut
   - Humidity
   -CO2
 - Control
-  - Pump1 - Ebb and Flow (120VAC)
-  - Pump2 - Recirculation (120VAC)
-  - Grow Light (120VAC)
-  - Spare 120VAC
-  - Spare (4) 24VDC
+  - Pump 1 - Ebb and Flow (120VAC)
+  - Pump 2 - Recirculation (120VAC)
+  - Grow Light 1 (120VAC)
+  - Grow Light 2 (120VAC)
+  - Spare 120VAC or 24VDC
 
 ## Hardware
 All sensors are I2C bus.
@@ -45,7 +45,9 @@ All sensors are I2C bus.
 ![9](schematic/pi-hydro2_bb.jpg)
 
 ## Construction
+| | For the 120VAC and 24DC |
 
+## Enclosure
 
 ## Gallery
 | ![1](image/IMG_5570.jpg) |  ![2](image/IMG_5677.jpg) |
