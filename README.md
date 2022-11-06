@@ -50,7 +50,7 @@ All sensors are I2C bus.
 | ![7](image/IMG_5910.jpg) | The Tentacle T3 provides two spare I2C ports. To connect to SCD41 remove one end of the STEMMA QT cable and replace it with suitable 0.1" connector. Be sure to get Vin, GND, SDC and SDA in the right order. Do the same for the EZO DO board but in this case you'll make up 0.1" connections on both sides of the cable. |
 
 ## Enclosure
-| ![7](enclosure/enclosure.jpg) | Cutouts for the BNC connectors, cords and cables are a nuisance so rather than modify a stock enclosure I 3D printed one.  |
+| ![7](enclosure/enclosure.jpg) | Cutouts for the BNC connectors, cords and cables are a nuisance so rather than modify a stock enclosure I 3D printed one.  Any material will work, I used PLA. If you're using a Pi4 or are stacking more relay boards wyou will have to modify the geometry. This enclosure prints on a small format Lulzbot Mini. |
 | -- | :------ |
 
 ## Software
