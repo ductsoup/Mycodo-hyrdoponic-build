@@ -47,7 +47,7 @@ All sensors are I2C bus.
 ## Construction
 | ![7](image/IMG_5568.jpg) | For the 120VAC and 24DC use 3' (or whatever length you find convenient) extension cords with either the plug or socket removed at one end. Join using Wago connectors. Be sure to use cords and wire that can comfortably carry the load of your devices. |
 | -- | :------ |
-| ![7](image/IMG_5910.jpg) | |
+| ![7](image/IMG_5910.jpg) | The Tentacle T3 provides two spare I2C ports. To connect to SCD41 remove one end of the STEMMA QT cable and replace it with suitable connector. |
 
 ## Enclosure
 
