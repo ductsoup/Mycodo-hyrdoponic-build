@@ -77,7 +77,7 @@ sudo i2cdetect -y 1
 70: -- -- -- -- -- -- -- --  
 ```
 
-### Relay
+### Install the Relay
 ```
 sudo apt install git -y
 # https://github.com/SequentMicrosystems/8relind-rpi/tree/main/python 
@@ -96,7 +96,7 @@ chmod +x script_on_off.sh
 ```
 From there you can create a Shell On/Off Output in Mycodo like `/home/pi/script_on_off.sh 1 on`.
 
-### Install Atlas Utilities
+### Install the Atlas Utilities
 Mycodo supports calibration for Atlas sensors. In some cases you'll want to use the Atlas utilities instead. For example, if you're using a K 0.1 or K 10 EC probe for some reason, you'll have to specify that with the Atlas utilities.
 ```
 git clone https://github.com/AtlasScientific/Raspberry-Pi-sample-code.git
